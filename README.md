@@ -9,7 +9,7 @@ A Tool for viewing Microsoft Places configuration.
 
 * Initial Release
 
-**Update 2.00:**
+**Update 2.00 – Editing Capabilities Added**
 
 - Create Buildings, Floors, Sections, and Desks via right-click in the object tree or the dropdown menu using the "Create New" button.
 - Delete Buildings, Floors, Sections, and Desks by right-clicking on an object in the tree.
