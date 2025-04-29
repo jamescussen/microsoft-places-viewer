@@ -5,9 +5,12 @@ A Tool for viewing Microsoft Places configuration.
   <img src="https://github.com/jamescussen/microsoft-places-viewer/raw/main/MicrosoftPlacesViewer-sm.png" alt="Tool Image"/>
 </p>
 
-**Update 1.00:**
+For more details on how to use the tool visit: https://www.myteamslab.com/2025/02/microsoft-places-viewer.html
 
-* Initial Release
+**2.01 - Enhancements**
+  - When adding a Section using the Create New button the Floor selection dialog, the Floor combo box also includes the building name.
+  - Updated the section drop down loading method for in the Add Desk dialog to improve performance.
+  - Updated the error message when adding a desk with an Mailbox Email Address that doesn't exist or is not of Desk Type.
 
 **Update 2.00 – Editing Capabilities Added**
 
@@ -17,4 +20,8 @@ A Tool for viewing Microsoft Places configuration.
 - View and manage Individual Desks (in addition to Workspace/Space objects).
 - Individual Desks are now displayed in grey, and Desk Pools (Workspaces) appear in blue for easier differentiation.
 
-For more details on how to use the tool visit: https://www.myteamslab.com/2025/02/microsoft-places-viewer.html
+**Update 1.00:**
+
+- Initial Release
+
+
