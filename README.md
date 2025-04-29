@@ -7,7 +7,7 @@ A Tool for viewing Microsoft Places configuration.
 
 For more details on how to use the tool visit: https://www.myteamslab.com/2025/02/microsoft-places-viewer.html
 
-**2.01 - Enhancements**
+**Update 2.01 - Enhancements**
   - When adding a Section using the Create New button the Floor selection dialog, the Floor combo box also includes the building name.
   - Updated the section drop down loading method for in the Add Desk dialog to improve performance.
   - Updated the error message when adding a desk with an Mailbox Email Address that doesn't exist or is not of Desk Type.
